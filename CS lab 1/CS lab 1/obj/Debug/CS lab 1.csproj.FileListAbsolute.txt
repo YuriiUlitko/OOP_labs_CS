@@ -1,0 +1,8 @@
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\bin\Debug\CS lab 1.exe.config
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\bin\Debug\CS lab 1.exe
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\bin\Debug\CS lab 1.pdb
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\obj\Debug\CS lab 1.csproj.AssemblyReference.cache
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\obj\Debug\CS lab 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\obj\Debug\CS lab 1.csproj.CoreCompileInputs.cache
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\obj\Debug\CS lab 1.exe
+C:\Users\ulitk\source\repos\CS lab 1\CS lab 1\obj\Debug\CS lab 1.pdb
